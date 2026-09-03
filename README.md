@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Meysya 👋
 
-<!--
-**redhclypp/redhclypp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology student at Universitas Brawijaya interested in technology, system analysis, project management, and AI.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software & Web Development
+- 🔍 System & Business Process Analysis
+- 📊 Data & Technology Projects
+- 📋 Project Management
+- 🤖 AI & Emerging Technologies
+
+## 🛠️ Tech & Tools
+
+React • TypeScript • Python • JavaScript • SQL • Git • GitHub • Supabase
+
+## 📂 Featured Projects
+
+- AI Contract Risk Analyzer
+- Fire Detection System
+- PlanCraft
+- Grocery
+- Sedentary
+
+## 🔗 Connect With Me
+
+🌐 Portfolio: https://myscalista.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/meysyaindahcalistap
