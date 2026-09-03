@@ -26,3 +26,9 @@ React • TypeScript • Python • JavaScript • SQL • Git • GitHub • Su
 
 🌐 Portfolio: https://myscalista.netlify.app  
 💼 LinkedIn: https://www.linkedin.com/in/meysyaindahcalistap
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
+</picture>
