@@ -28,8 +28,18 @@ React • TypeScript • Python • JavaScript • SQL • Git • GitHub • Su
 🌐 Portfolio: https://myscalista.netlify.app  
 💼 LinkedIn: https://www.linkedin.com/in/meysyaindahcalistap
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[redhclypp]/[redhclypp]/output/[game-name]-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[redhclypp]/[redhclypp]/output/[game-name]-contribution-graph.svg">
-  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[redhclypp]/output/[game-name]-contribution-graph.svg">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=redhclypp&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redhclypp&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=redhclypp&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/redhclypp/count.svg?" alt="visitors count" />
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=redhclypp" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=redhclypp&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
